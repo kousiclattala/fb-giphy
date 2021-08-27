@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fb-giphy/static/css/main.7176885d.chunk.css",
+    "main.js": "/fb-giphy/static/js/main.2e93a79e.chunk.js",
+    "main.js.map": "/fb-giphy/static/js/main.2e93a79e.chunk.js.map",
+    "runtime-main.js": "/fb-giphy/static/js/runtime-main.60941386.js",
+    "runtime-main.js.map": "/fb-giphy/static/js/runtime-main.60941386.js.map",
+    "static/js/2.929d8a9d.chunk.js": "/fb-giphy/static/js/2.929d8a9d.chunk.js",
+    "static/js/2.929d8a9d.chunk.js.map": "/fb-giphy/static/js/2.929d8a9d.chunk.js.map",
+    "static/js/3.bba4de6d.chunk.js": "/fb-giphy/static/js/3.bba4de6d.chunk.js",
+    "static/js/3.bba4de6d.chunk.js.map": "/fb-giphy/static/js/3.bba4de6d.chunk.js.map",
+    "index.html": "/fb-giphy/index.html",
+    "static/css/main.7176885d.chunk.css.map": "/fb-giphy/static/css/main.7176885d.chunk.css.map",
+    "static/js/2.929d8a9d.chunk.js.LICENSE.txt": "/fb-giphy/static/js/2.929d8a9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60941386.js",
+    "static/js/2.929d8a9d.chunk.js",
+    "static/css/main.7176885d.chunk.css",
+    "static/js/main.2e93a79e.chunk.js"
+  ]
+}
