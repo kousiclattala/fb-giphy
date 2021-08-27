@@ -9,12 +9,12 @@ const App = () => {
     var jsonPosts = localStorage.getItem("post");
 
     var allPosts = JSON.parse(jsonPosts);
-    setPosts(allPosts);
+    setPosts(() => allPosts);
   };
 
   useEffect(() => {
     getPosts();
-  });
+  }, []);
 
   return (
     <div className="container container-fluid">

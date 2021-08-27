@@ -18,7 +18,6 @@ const Navbar = () => {
     if (typeof cancelToken != typeof undefined) {
       cancelToken.cancel("cancelling previous request");
     }
-
     cancelToken = axios.CancelToken.source();
 
     var gifData = await axios.get(
