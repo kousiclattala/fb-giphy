@@ -12,6 +12,8 @@ const Navbar = () => {
   const [gifs, setGifs] = useState([]);
   const [gifstring, setGifstring] = useState("");
 
+  // const [posts, setPosts] = useState([]);
+
   const handleGifSearch = async (e) => {
     setGifstring(e.target.value);
 
